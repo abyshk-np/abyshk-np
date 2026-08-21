@@ -49,17 +49,7 @@ def innovate():
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
 
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=abyshk-np&theme=tokyonight&hide_border=true" alt="github streak" />
-</div>
 
 ###
 
